@@ -14,3 +14,6 @@ node scripts/sample-script.js
 npx hardhat help
 ```
 # epic-nfts
+
+# replit url for front-end
+https://replit.com/@FujiPebri/nft-starter-repo-final?v=1
